@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>House MD: The Greatest Sherlock Holmes Adaptation?</title>
+</head>
+
+<body>
+
+    <h1>House MD: The Greatest Sherlock Holmes Adaptation Ever That's Barely an Adaptation?</h1>
+
+    <h2>
+        Well first of all, we have to look at similar adaptations of Sherlock Holmes, or more specifically, its counterparts in the 2000s.
+    </h2>
+
+    <ul>
+        <li>Elementary</li>
+        <li>Sherlock Holmes</li>
+        <li>Sherlock Holmes: A Game of Shadows</li>
+        <li>Sherlock bbc</li>
+        <li>Enola Holmes</li>
+        <li>mr holmes</li>
+        <li>watson</li>
+    </ul>
+
+    <p>
+What do all these stories have in common? They all keep Sherlock Holmes mostly the same with only small changes,
+or they are treated as direct adaptations of the books, and that's great.
+    </p>
+
+    <p>
+        But we aren't discussing the quality of the original books. No, we're discussing adaptations,
+        and unfortunately, as adaptations, the previously listed works are all too similar to the original sources.
+    </p>
+
+    <p>
+        House M.D. is different. It doesn't just adapt the books, it changes everything. Rather than being a detective,
+        Sherlock Holmes becomes a doctor named Gregory House. His closest friend isn't John Watson, it's James Wilson.
+        A fundamental aspect of the adaptation is how different it is from other Holmes adaptations.
+    </p>
+
+    <p>
+        That is why it's so good. It isn't a straight one-to-one adaptation. It changes almost everything about the
+        story, yet still feels unmistakably like a Sherlock Holmes story.
+    </p>
+
+    <img
+        src="https://cdn.suwalls.com/wallpapers/tv-shows/dr-gregory-house-31577-1920x1080.jpg"
+        alt="Dr Gregory House"
+        width="1240" height="1240">
+    <img
+        <img src="https://i.pinimg.com/originals/f5/c4/25/f5c425cd8c9539888567f7104f51c0a5.jpg" alt="" class="center"> 
+  
+    <img
+        src="https://fr.web.img5.acsta.net/pictures/22/04/01/11/50/1018209.jpg"
+        alt="Dr Gregory House promotional image"
+        width="1240" height="1240"> 
+
+    <script src="./script.js"></script>
+
+</body>
+
+</html>
