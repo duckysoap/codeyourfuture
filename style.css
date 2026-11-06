@@ -1,0 +1,36 @@
+html {
+body {
+    background-color: #1e1e1e;
+    color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #4da6ff;
+}
+
+h2 {
+    color: #66cc66;
+}
+
+p {
+    color: #ffffff;
+}
+
+ol {
+    color: #ffcc33;
+}
+
+img {
+    border: 3px solid #4da6ff;
+    border-radius: 10px;
+} 
+.left-img {
+    float: left;
+    margin-right: 15px;
+}
+
+.right-img {
+    float: right;
+    margin-left: 15px;
+}
